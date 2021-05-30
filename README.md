@@ -1,2 +1,2 @@
-# quick-tip-calculaot
+# quick-tip-calculator
 Quick tip calculator
